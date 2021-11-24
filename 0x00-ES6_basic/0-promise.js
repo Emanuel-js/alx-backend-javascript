@@ -1,0 +1,4 @@
+function getResponseFromAPI()
+{
+    return "wow";
+}
