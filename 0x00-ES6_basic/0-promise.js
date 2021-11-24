@@ -1,4 +1,3 @@
-function getResponseFromAPI()
-{
-    return "wow";
+function getResponseFromAPI(){
+    return new Promise((resolve) => resolve);
 }
