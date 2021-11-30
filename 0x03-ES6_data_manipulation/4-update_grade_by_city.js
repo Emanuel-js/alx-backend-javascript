@@ -1,4 +1,4 @@
-	export default function updateStudentGradeByCity(students, city, newGrade) {
+export default function updateStudentGradeByCity(students, city, newGrade) {
   const newArray = students.map((student) => {
     const studentGrade = newGrade
       .filter((element) => element.studentId === student.id)
