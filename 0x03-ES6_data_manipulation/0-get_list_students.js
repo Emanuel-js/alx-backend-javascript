@@ -1,4 +1,4 @@
-	const studentsList = [
+const studentsList = [
   {
     id: 1,
     firstName: 'Guillame',
